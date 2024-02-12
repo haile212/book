@@ -27,6 +27,8 @@ var books = [
   { title: 'Moby-Dick', author: 'Herman Melville ' },
   { title: 'War and Peace Leo Tolstoy', author: 'Aylmer Maude (Translator), Louise Maude (Translator)' },
   { title: 'Flowers for Algernon', author: 'Daniel Keyes' },
+  { title: 'The Four Million', author: 'O. Henry' },
+
 
 
 
