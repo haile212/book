@@ -26,6 +26,9 @@ var books = [
   { title: 'The Great Gatsby', author: 'F. Scott Fitzgerald' },
   { title: 'Moby-Dick', author: 'Herman Melville ' },
   { title: 'War and Peace Leo Tolstoy', author: 'Aylmer Maude (Translator), Louise Maude (Translator)' },
+  { title: 'Flowers for Algernon', author: 'Daniel Keyes' },
+
+
 
   //philosophy
   { title: 'The Art of War', author: 'Sun Tzu, Thomas Cleary ' },
@@ -37,7 +40,8 @@ var books = [
   { title: 'The Metamorphosis', author: 'Marcus Aurelius' },
   { title: '  Meditations ', author: 'Franz Kafka, Stanley Corngold' },
   { title: '  The Laws of Human Nature ', author: 'Robert Greene' },
-
+  { title: '  A Little History of Philosophy ', author: ' Nigel Warburton' },
+ 
   //Self-help
   { title: '  The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life', author: ' Mark Manson' },
   { title: 'How to Win Friends and Influence People', author: 'Dale Carnegie' },
