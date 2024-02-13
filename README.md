@@ -1,1 +1,1 @@
-live => https://bookrecomandation.netlify.app/
+live => https://recommendbooks.netlify.app/
